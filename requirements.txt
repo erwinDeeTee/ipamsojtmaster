@@ -5,6 +5,7 @@ pyexcel-io>=0.5.20
 pyexcel-xls>=0.5.8
 pyexcel-xlsx>=0.5.8
 django-crispy-forms
+crispy-bootstrap4
 django-heroku
 gunicorn
 requests
