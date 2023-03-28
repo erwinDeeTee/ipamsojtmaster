@@ -1,1 +1,1 @@
-web: gunicorn ipams.wsgi
+web: gunicorn ipams:app --preload
