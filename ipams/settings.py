@@ -17,6 +17,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY') or '6Ld-guEbAAAAANAgbmQI2Ph6knh
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
+#ALLOWED_HOSTS = ['.vercel.app']
 
 AUTH_USER_MODEL = 'accounts.User'
 

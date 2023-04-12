@@ -1,1 +1,1 @@
-web: gunicorn ipams:app --preload
+web: gunicorn ipams:app 
